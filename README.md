@@ -88,4 +88,14 @@ A LegalTech platform designed to model **inheritance and succession workflows un
 
 ---
 
+⭐ ## 📈 GitHub Stats & Activity
+
+![Howkins' GitHub Stats](https://github-readme-stats.vercel.app/api?username=CoolCerebralTech\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoolCerebralTech\&layout=compact\&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=CoolCerebralTech\&theme=tokyonight)
+
+---
+
 ⭐ *I love turning complex problems into elegant backend solutions. Feel free to explore my repositories or reach out for collaboration!*
