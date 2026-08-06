@@ -46,23 +46,6 @@ Focused on modeling complex legal, financial, and autonomous agent workflows int
 
   <tr>
     <td width="60%">
-      <h3>💳 PayMate</h3>
-      <p><strong>iOS Glassmorphic Checkout System</strong></p>
-      <p>A sleek, premium frontend interface exploring fluid physical animations and next-generation mobile forms. Utilizes highly refined CSS translucent layering and contextual modal bottom sheets.</p>
-      <ul>
-        <li><strong>Aesthetic:</strong> Strict iOS glassmorphism style sheet with precise typography and motion.</li>
-        <li><strong>Links:</strong> <a href="https://booking-form-phi.vercel.app">booking-form-phi.vercel.app</a></li>
-      </ul>
-      <p><code>HTML5</code> <code>Tailwind CSS</code> <code>Glassmorphism</code> <code>Responsive UI</code></p>
-    </td>
-    <td width="40%" align="center">
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Live-Demo-emerald?style=flat-square" alt="Live Demo"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="60%">
       <h3>⛓️ Verilock (Archived)</h3>
       <p><strong>Cryptographic Trust Layer for Autonomous AI Agents</strong></p>
       <p>A blockchain-native financial guard system enabling decentralized notarization and policy-enforced transaction controls for autonomous multi-agent environments.</p>
