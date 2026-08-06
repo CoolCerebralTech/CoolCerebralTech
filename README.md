@@ -87,12 +87,3 @@ Frontend & Design Engineering:
   - iOS-style Human Interface Guidelines (Glassmorphism, physical motion)
   - Responsive Mobile-First Architecture
 ```
-
----
-
-## 📊 Quantitative Focus
-
-### Sports Probability Modeling
-Beyond product engineering, I design and run private, data-driven analytics models for European lower-league football (Danish Superliga, Hungarian NB I, Serbian Superliga, Czech Chance Liga, Norwegian Eliteserien, Swiss Super League).
-* **Approach:** Quantitative value identification focusing heavily on goal-based metrics (BTTS, Team Over 1.5, Asian Totals).
-* **System:** Strictly objective pipelines featuring flat-staking models, detailed tracking sheets, and form-based team blacklisting to eliminate bookmaker sentiment bias.
